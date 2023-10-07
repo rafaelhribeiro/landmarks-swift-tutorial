@@ -4,6 +4,12 @@
 
 The Landmarks app is designed to showcase various landscapes using SwiftUI and Swift. Users can view detailed information about each landmark, mark their favorites, view a map of the location, and read descriptions about each landmark.
 
+<p align="center">
+   <img height="300" alt="iOS landscape list" src="https://github.com/rafaelhribeiro/landmarks-swift-tutorial/assets/7372443/4baf3416-26fb-4d77-8eb5-df6663b81761">
+   <img height="300" alt="iOS landscape favorite list" src="https://github.com/rafaelhribeiro/landmarks-swift-tutorial/assets/7372443/7a99462f-8925-4d3e-b417-63505d65568c">
+   <img height="300" alt="iOS landscape detail" src="https://github.com/rafaelhribeiro/landmarks-swift-tutorial/assets/7372443/a5eb9e74-6e26-4bd8-a3a7-9c65dfac357d">
+</p>
+
 ## Prerequisites
 
 Before you begin, ensure you have the following software and tools installed on your development machine:
