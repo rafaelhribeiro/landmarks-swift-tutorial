@@ -15,8 +15,6 @@ The Landmarks app is designed to showcase various landscapes using SwiftUI and S
 Before you begin, ensure you have the following software and tools installed on your development machine:
 
 - [Xcode](https://developer.apple.com/xcode/): Apple's official integrated development environment for macOS and iOS app development.
-- [Swift](https://swift.org/): The programming language used to develop iOS apps.
-- [SwiftUI](https://developer.apple.com/documentation/swiftui): A declarative framework for building user interfaces in Swift.
 - [Git](https://git-scm.com/): A version control system to manage and collaborate on code.
 
 ## Getting Started
